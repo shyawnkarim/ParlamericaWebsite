@@ -1,0 +1,70 @@
+/*Page width 960*/
+html {
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+}
+body {
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+}
+div.paper {
+	margin-top: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+div.topbars {
+	position: relative;
+	top: 10px;
+}
+div.logo {
+	position: absolute;
+	top: 25px;
+	margin-left: 49px;
+}
+div.logo img:hover {
+	position: absolute;
+	top: -4px;
+	margin-left: -4px;
+}
+div.logotext {
+	position: absolute;
+	top: 64px;
+	margin-left: 274px;
+}
+div.headphotos {
+	position: absolute;
+	top: 140px;
+	margin-left: 260px;
+}
+nav {
+	position: relative;
+	top: -107px;
+	margin-left: 4px;
+}
+nav li {
+	float:left;
+	margin-right: 1px;
+}
+article {
+	padding-top: 0px;
+	margin:-20px auto 50px auto;
+}
+section.sechead {
+	position: relative;
+	top: -40px;
+}
+section.sechead h1 {
+	position: relative;
+	top: -35px;
+}
+section.text {
+	margin: -30px 100px 40px 100px;
+	display: block;
+}
+footer {
+	position: relative;
+	top: -20px;
+	margin-left: 250px;
+}

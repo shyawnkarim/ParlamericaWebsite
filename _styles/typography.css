@@ -1,0 +1,55 @@
+/*Arial, Helvetica, sans-serif   howcute*/
+/*blue #00a0c6 magenta #ed1e79 green #9ce821 orange #ffbf00*/
+nav li {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	color: white;
+}
+nav li.fontlarge {
+	font-size: 1.2em;
+}
+nav li.fontsmall {
+	font-size: 1.0em;
+}
+nav a {
+	color:white;
+	text-decoration: none;
+}
+nav a:hover {
+	text-decoration: underline;
+}
+.sechead h1 {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	text-align: center;
+	font-size: 2.5em;
+	color: black;
+	text-shadow: 0px 0px 7px white;
+}
+p {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: justify;
+	text-indent: 30px;
+}
+footer {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: .8em;
+}
+footer a {
+	text-decoration: none;
+}
+footer a:hover {
+	text-decoration: underline;
+}
+footer a:visited {
+	color: blue;
+}
+section.conttext {
+	text-align: center;
+}
+section.conttext h2 {
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+}
+section.conttext p {
+	text-align: center;
+}
